@@ -2,8 +2,7 @@
 
 🎯 Software Engineer at **SAP Labs**, Bangalore  
 🎓 B.Tech in Computer Science — **Jaypee Institute of Information Technology** (2019–2023)  
-🏆 Winner — **Smart India Hackathon 2022**  
-📫 Reach me: garvit.jindal@sap.com
+🏆 Winner — **Smart India Hackathon 2022**   
 
 ---
 
