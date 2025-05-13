@@ -70,7 +70,7 @@ Unified ride-booking platform integrating Uber and Ola with fare comparisons and
 
 ## 🔗 Connect With Me
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/garvit-jindal-961528196](https://www.linkedin.com/in/garvitjindal/))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/garvitjindal/)  
 - 🧠 [LeetCode](https://leetcode.com/u/garvitjindal_)  
 - 🧑‍💻 [GitHub](https://github.com/GarvitJ09)
 
