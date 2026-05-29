@@ -50,23 +50,8 @@ I work primarily across **system design, distributed backends, and AI engineerin
   </tr>
 </table>
 
-<!-- ====== GITHUB STATS (dark themed, cached to avoid broken images) ====== -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GarvitJ09&show_icons=true&hide_border=true&count_private=true&bg_color=0f0f12&title_color=d97757&icon_color=d97757&text_color=ffffff&cache_seconds=1800" alt="github stats" />
-  <img height="165" src="https://github-readme-streak-stats.demolab.com?user=GarvitJ09&hide_border=true&background=0f0f12&stroke=d97757&ring=d97757&fire=d97757&currStreakLabel=d97757&sideLabels=ffffff&dates=8b8b8b&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
-</p>
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitJ09&layout=compact&hide_border=true&bg_color=0f0f12&title_color=d97757&text_color=ffffff&langs_count=8&cache_seconds=1800" alt="top languages" />
-</p>
-
-<!-- ====== ACTIVITY GRAPH (animated line) ====== -->
+<!-- ====== ACTIVITY GRAPH (reliable service; renders consistently) ====== -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GarvitJ09&bg_color=0f0f12&color=d97757&line=d97757&point=ffffff&area=true&area_color=d97757&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
-
-<!-- ====== TROPHIES ====== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GarvitJ09&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
-</p>
 
 ---
 
