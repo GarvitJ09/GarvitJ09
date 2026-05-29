@@ -1,104 +1,114 @@
-# Garvit Jindal
+<!-- ====== HEADER BANNER (animated waving gradient) ====== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f12,50:d97757,100:0f0f12&height=200&section=header&text=Garvit%20Jindal&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Backend%20%C2%B7%20Cloud%20%C2%B7%20LLM%20Engineering&descSize=18&descAlignY=58&descColor=f5d3c7" alt="Garvit Jindal" />
 
-**Software Engineer (SDE-2) @ Moody's** · Backend · Cloud · LLM Engineering · Bengaluru, India
+<!-- ====== TYPING ANIMATION ====== -->
+<p align="center">
+  <a href="https://www.garvitjindal.in/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D97757&center=true&vCenter=true&width=620&lines=SDE-2+%40+Moody's;Backend+%26+Distributed+Systems;Production+LLM+%26+AI+Engineering;Cloud+%26+Data+Infrastructure+on+AWS" alt="Typing SVG" />
+  </a>
+</p>
 
-I build backend systems and LLM pipelines that hold up at scale. Currently at **Moody's**, previously **~3 years at SAP Labs**. I focus on the intersection of system design, automation, and developer productivity — and more recently, production-grade AI engineering.
-
-🌐 [garvitjindal.in](https://www.garvitjindal.in/) · 📄 [Resume](https://drive.google.com/file/d/1vRdvNLv1g4fktyPECPFafiEDxEyW7PSv/view)
+<!-- ====== STATUS BADGES ====== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GarvitJ09&label=Profile%20views&color=d97757&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/SDE--2-Moody's-d97757?style=flat-square&labelColor=0f0f12" alt="role" />
+  <img src="https://img.shields.io/badge/Based%20in-Bengaluru,%20IN-d97757?style=flat-square&labelColor=0f0f12" alt="location" />
+  <a href="https://www.garvitjindal.in/"><img src="https://img.shields.io/badge/Portfolio-garvitjindal.in-d97757?style=flat-square&labelColor=0f0f12&logo=google-chrome&logoColor=white" alt="portfolio" /></a>
+</p>
 
 ---
 
-## What I work on
+## About
 
-**Backend & Distributed Systems** — Java/Spring Boot microservices and Python pipelines handling millions of records with sub-second latency. API design, async event-driven architectures, and migrating legacy services to cloud-native platforms.
+Software engineer with 3+ years of experience building scalable backend systems, cloud-native architectures, and production LLM applications. Currently at **Moody's**, designing event-driven data remediation pipelines on AWS. Previously at **SAP Labs**, where I migrated legacy services to cloud-native platforms and automated infrastructure across 500+ services.
 
-**AI & LLM Engineering** — Production LLM systems with async orchestration, model-agnostic provider switching, and observability. FastAPI + LangChain services with SSE streaming, cost/token/TTFT tracking across 300+ models, and multi-tier caching (Redis + MongoDB) for low-latency conversational state.
-
-**Cloud & Data Infrastructure** — ETL pipelines and cloud-native services on AWS and SAP BTP. Currently designing AWS Glue jobs with Python Lambda for event-driven data remediation at Moody's, surfaced through React + Retool dashboards.
-
----
+I work primarily across **system design, distributed backends, and AI engineering** — building services that handle large data volumes with low latency and high availability.
 
 ## Tech Stack
 
-**Languages**  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,js,react&theme=dark" alt="languages & frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,redis,mongodb,mysql,git,postman,vscode&theme=dark" alt="cloud & tools" />
+</p>
 
-**Backend & AI**  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-
-**Cloud & Data**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![SAP BTP](https://img.shields.io/badge/-SAP%20BTP-0FAAFF?logo=sap&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <em>Java/Spring Boot · Python/FastAPI · LangChain · AWS (Glue, Lambda, S3) · SAP BTP · Redis · MongoDB</em>
+</p>
 
 ---
 
-## Experience
+## Engineering Impact
 
-**Moody's Corporation** — Software Engineer (SDE-2) · *Dec 2025 – Present*  
-Building a data remediation pipeline that flags and corrects data quality issues across large-scale financial datasets. Designing AWS Glue ETL jobs with event-driven Python Lambda transformations, surfaced through a React + Retool dashboard for data ops teams.
+<table align="center">
+  <tr>
+    <td><b>90%</b><br/>QA time cut at SAP</td>
+    <td><b>500+</b><br/>services automated</td>
+    <td><b>10+</b><br/>apps migrated to cloud</td>
+    <td><b>40%</b><br/>downtime reduced</td>
+    <td><b>300+</b><br/>LLM models tracked</td>
+  </tr>
+</table>
 
-**SAP Labs** — Developer Associate (SDE-I) · *Jul 2023 – Dec 2025*  
-Built a regression scoping tool that cut QA testing time by **90%** and manual effort by **75%**, adopted across enterprise testing workflows. Automated a service classification system across **500+ SAP services** and migrated **10+ legacy applications** to SAP BTP / Cloud Foundry, reducing production downtime by **40%**.
+<!-- ====== GITHUB STATS (dark themed, cached to avoid broken images) ====== -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GarvitJ09&show_icons=true&hide_border=true&count_private=true&bg_color=0f0f12&title_color=d97757&icon_color=d97757&text_color=ffffff&cache_seconds=1800" alt="github stats" />
+  <img height="165" src="https://github-readme-streak-stats.demolab.com?user=GarvitJ09&hide_border=true&background=0f0f12&stroke=d97757&ring=d97757&fire=d97757&currStreakLabel=d97757&sideLabels=ffffff&dates=8b8b8b&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+</p>
 
----
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitJ09&layout=compact&hide_border=true&bg_color=0f0f12&title_color=d97757&text_color=ffffff&langs_count=8&cache_seconds=1800" alt="top languages" />
+</p>
 
-## Notable Projects
+<!-- ====== ACTIVITY GRAPH (animated line) ====== -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GarvitJ09&bg_color=0f0f12&color=d97757&line=d97757&point=ffffff&area=true&area_color=d97757&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
 
-**[TIP 100](https://github.com/GarvitJ09/TIP100)** — *Smart India Hackathon 2022 — National Winner*  
-Secure tip-off submission system for anonymous, encrypted reporting of sensitive intelligence inputs. Selected as the national winner among thousands of teams.
-
-**[RideFusion](https://github.com/GarvitJ09/OneApp.RideFusion)**  
-Ride aggregator that lets users book and track rides across multiple providers from a single interface, comparing fares and ETAs in real time.
-
----
-
-## Writing
-
-I write about backend systems, LLM pipelines, and AI engineering on [Medium](https://medium.com/@garvitjindal09):
-
-- **RAG Isn't Dying — It's Moving Into Your Agent's Hands** — why retrieval belongs inside the agent's tool-use loop instead of a pre-baked pipeline.
-- **Your AI Doesn't Remember You. Here's the Pattern That Changes That** — a session-memory pattern for stateless LLM apps (Redis hot tier + Mongo persistence).
-
----
-
-## Highlights
-
-- 🥇 **Smart India Hackathon 2022** — National Winner
-- 🌟 **Rising Star Award** — SAP Labs (Sept 2025)
-- 📄 **Publication** — *Enhancing QMate Regression Testing with Advanced Scoping Tool* (Aug 2024)
-- ⚡ Solved **700+** problems across competitive programming platforms
+<!-- ====== TROPHIES ====== -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GarvitJ09&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+</p>
 
 ---
 
-## GitHub Stats
+## Projects
 
-![Garvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarvitJ09&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitJ09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| Project | Description | Stack |
+|---|---|---|
+| **[TIP 100](https://github.com/GarvitJ09/TIP100)** | Encrypted, anonymous tip-off submission system. National winner of Smart India Hackathon 2022. | Web · Security |
+| **[RideFusion](https://github.com/GarvitJ09/OneApp.RideFusion)** | Multi-provider ride aggregator with real-time fare and ETA comparison in a single interface. | APIs · Integration |
+
+More at **[garvitjindal.in](https://www.garvitjindal.in/)**
+
+---
+
+## Technical Writing
+
+Publishing on backend architecture and AI engineering at **[Medium](https://medium.com/@garvitjindal09)**:
+
+- **RAG Isn't Dying — It's Moving Into Your Agent's Hands** — putting retrieval inside the agent's tool-use loop instead of a fixed pipeline.
+- **Your AI Doesn't Remember You. Here's the Pattern That Changes That** — a session-memory design for stateless LLM apps using a Redis hot tier over MongoDB.
+
+---
+
+## Achievements & Recognition
+
+- **Smart India Hackathon 2022** — National Winner
+- **Rising Star Award** — SAP Labs, 2025
+- **Publication** — *Enhancing QMate Regression Testing with Advanced Scoping Tool*, 2024
+- **700+** problems solved across competitive programming platforms
 
 ---
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0f0f12?logo=google-chrome&logoColor=white)](https://www.garvitjindal.in/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garvitjindal)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/GarvitJ09)
-[![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=white)](https://medium.com/@garvitjindal09)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/garvitjindal_)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=x&logoColor=white)](https://x.com/garvitjindal_)
+<p align="center">
+  <a href="https://www.garvitjindal.in/"><img src="https://img.shields.io/badge/Portfolio-0f0f12?style=for-the-badge&logo=google-chrome&logoColor=d97757" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/in/garvitjindal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://medium.com/@garvitjindal09"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium" /></a>
+  <a href="https://leetcode.com/u/garvitjindal_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" /></a>
+  <a href="https://x.com/garvitjindal_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="twitter" /></a>
+  <a href="https://github.com/GarvitJ09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+</p>
+
+<!-- ====== FOOTER BANNER ====== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f12,50:d97757,100:0f0f12&height=120&section=footer" alt="footer" />
